@@ -1,6 +1,9 @@
-# IdentityServer3 #
+# IdentityServer3
 
-## Note: This repository is no longer in active development or maintenance, other than reported security vulnerabilities.
+> [!CAUTION]
+> This repository is no longer in active development or maintenance.
+> This repository is only here for preservation purposes.
+
 ![openid_certified](https://cloud.githubusercontent.com/assets/1454075/7611268/4d19de32-f97b-11e4-895b-31b2455a7ca6.png)
 
 [Certified](http://openid.net/certification/) OpenID Connect implementation.
